@@ -3,8 +3,8 @@
 ## Overview and Origin
 
 * What is the name of the company?
-    Platinum properties
-    [![platinum properties logo](/images/logo.jpg)
+    ** Platinum properties
+    ** ![platinum properties logo](/images/logo.jpg)
 * When was the company incorporated?
 
 * Who are the founders of the company?
