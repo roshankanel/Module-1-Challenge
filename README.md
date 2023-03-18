@@ -4,7 +4,6 @@
 
 * What is the name of the company?
     >Platinum properties ![platinum properties logo](/images/logo.jpg)
->>>>>>> 41ad7596cd7c8d8fc704ea30e8173fba393f2828
 * When was the company incorporated?
 
 * Who are the founders of the company?
