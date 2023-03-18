@@ -8,6 +8,14 @@
     >Active from 30 May 2019
 
 * Who are the founders of the company?
+    > ***Tania Haidar (Principal, LREA)***
+    Tania has been in the real estate since 2000. She is a licensed strata and real estate agent. She deals with various clients from different backgrounds on a daily basis. Tania brings a wealth of knowledge to the business and always provides a very personalized service to all the clients.
+
+    >***Caroline Elmassian***
+    Caroline is a licenced Real Estate Agent and is the Property Manager for Platinum Properties (NSW) managing  over 250 properties in her portfolio. She also has a good understanding of strata management when it comes to repairs, maintenance, levies, common property and the regulation as well as the by-laws. She is very friendly and makes you feel comfortable with looking after your day to day management with your investment. She helps all strata owners, landlords as well as tenants.
+
+    >***Christine Elmassian***
+    Christine holds a Certificate of Registration and assists in property and strata management in the office. She is also the office administrator. She usually is the first point of contact when calling our office. If that person is not available to talk to you in the office she will try and assist to the best she possibly can.
 
 * How did the idea for the company (or project) come about?
 
