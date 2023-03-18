@@ -5,7 +5,7 @@
 * What is the name of the company?
     >Platinum properties ![platinum properties logo](/images/logo.jpg)
 * When was the company incorporated?
->Active from 30 May 2019
+    >Active from 30 May 2019
 
 * Who are the founders of the company?
 
