@@ -89,9 +89,19 @@
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+    - Data security being highly sensitive issue i think i would suggest to use blockchain technology. And if possible use AI techniques to forcast future outcome.
 
 * Why do you think that offering this product or service would benefit the company?
+    - Recent data hack on Latitude resulted major withdrawl of fund from the company. This could have been stop if the company had use blockchain technology.
+    - Letting your client know what to expect in future would be highly beneficial to the client and this being being the major service will attract client easily to use our product.
+
 
 * What technologies would this additional product or service utilise?
+    - Blockchain
+    - Some crypto currency as a mode of exchange
+    - Use of Artificial Intelligence/ Machie learning to forecast future outcome
 
 * Why are these technologies appropriate for your solution?
+     - As mention above blockchain introduces high security to the data. This is almost impossible to break
+     - Use of crypto as a mode of exchange will save intermediate price that client's needs to pay to the third party.
+     - Use of AI/ ML will help client to identity the future impact, thus focusing on current term to shape the better future.
