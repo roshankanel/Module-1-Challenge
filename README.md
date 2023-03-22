@@ -25,11 +25,11 @@
     2. I couldnot find how much fund they have recieved. But below table gives the overall performance of this company for last 12 months.
         > ||Townhouse|Apartment|
           |-----------|:-----------:|:------------------:|
-          |1.***Sold*** - 12 sold\2.***Median price*** - $410K \3.***Median days advertised*** 133 days|1.***Sold*** - 3 sold\2.***Median price*** - $680K\3.***Median days advertised*** 166 days|1.***Sold*** - 2 sold \ 2.***Median price*** - $458K \ 3.***Median days advertised*** 232 days|
+          |||1.***Sold*** - 2 sold \ 2.***Median price*** - $458K \ 3.***Median days advertised*** 232 days|
 
           | House         | Townhouse     | Apartment |
           |--------------|-----------|------------|
-          |1.***Sold*** - 12 sold\2.***Median price*** - $410K \3.***Median days advertised*** 133 days| 1.99      | *7*        |
+          |1.***Sold*** - 12 sold \ 2.***Median price*** - $410K \ 3.***Median days advertised*** 133 days | 1.***Sold*** - 3 sold \ 2.***Median price*** - $680K \ 3.***Median days advertised*** 166 days | *7*        |
           | Bananas      | **1.89**  | 5234       |
           source: [title](https://www.realestate.com.au/agency/platinum-property-co-HZAMDK)
 ---
