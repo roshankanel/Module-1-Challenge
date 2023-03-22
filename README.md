@@ -3,7 +3,7 @@
 ## Overview and Origin
 
 * What is the name of the company?
->Platinum properties ![platinum properties logo](/images/logo.jpg)
+    >Platinum properties ![platinum properties logo](/images/logo.jpg)
 * When was the company incorporated?
     >Active from 30 May 2019
 
@@ -18,9 +18,16 @@
     Christine holds a Certificate of Registration and assists in property and strata management in the office. She is also the office administrator. She usually is the first point of contact when calling our office. If that person is not available to talk to you in the office she will try and assist to the best she possibly can.
 
 * How did the idea for the company (or project) come about?
+    1. I am currently renting and there are so many issues that i am facing and is getting ignored, sometime by me and sometime by the real agent. I have also witnessed ones being the small issue both for real agent and the tenants how can quickly grow to become a huge problem and giving a nightmare to the landloards. My project is to focus on those minor details and project what could be the outcome in the future and report to the authorised people/company.
 
 * How is the company funded? How much funding have they received?
-
+    1. When rented they get certain commision from the tenants. 
+    2. I couldnot find how much fund they have recieved. But below table gives the overall performance of this company for last 12 months.
+        > | House | Townhouse | Apartment |
+          | ----------- | :-----------: | :------------------:|
+          | 1.***Sold*** - 12 sold \ 2.***Median price*** - $410K \ 3.***Median days advertised*** 133 days | 1.***Sold*** - 3 sold \ 2.***Median price*** - $680K \ 3.***Median days advertised*** 166 days |1.***Sold*** - 2 sold \ 2.***Median price*** - $458K \ 3.***Median days advertised*** 232 days|
+          [^1] source: [title](https://www.example.com)
+---
 
 ## Business Activities
 
