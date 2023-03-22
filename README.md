@@ -18,14 +18,14 @@
     Christine holds a Certificate of Registration and assists in property and strata management in the office. She is also the office administrator. She usually is the first point of contact when calling our office. If that person is not available to talk to you in the office she will try and assist to the best she possibly can.
 
 * How did the idea for the company (or project) come about?
-    1. I am currently renting and there are so many issues that i am facing and is getting ignored, sometime by me and sometime by the real agent. I have also witnessed ones being the small issue both for real agent and the tenants how can quickly grow to become a huge problem and giving a nightmare to the landloards. My project is to focus on those minor details and project what could be the outcome in the future and report to the authorised people/company.
+    - I am currently renting and there are so many issues that i am facing and is getting ignored, sometime by me and sometime by the real agent. I have also witnessed ones being the small issue both for real agent and the tenants how can quickly grow to become a huge problem and giving a nightmare to the landloards. My project is to focus on those minor details and project what could be the outcome in the future and report to the authorised people/company.
 
 * How is the company funded? How much funding have they received?
     - When rented they get certain commision from the tenants. 
-    2. I couldnot find how much fund they have recieved. But below table gives the overall performance of this company for last 12 months.
+    - I couldnot find how much fund they have recieved. But below table gives the overall performance of this company for last 12 months.
         | House         | Townhouse     | Apartment |
         |--------------|-----------|------------|
-        |***Sold*** - 12 sold <br> ***Median price*** - $410K <br> ***Median days advertised*** 133 days | ***Sold*** - 3 sold <br> 2.***Median price*** - $680K <br> ***Median days advertised*** 166 days |   ***Sold*** - 2 sold <br> ***Median price*** - $458K <br> ***Median days advertised*** 232 days|
+        |***Sold*** - 12 sold <br> ***Median price*** - $410K <br> ***Median days advertised*** 133 days | ***Sold*** - 3 sold <br> ***Median price*** - $680K <br> ***Median days advertised*** 166 days |   ***Sold*** - 2 sold <br> ***Median price*** - $458K <br> ***Median days advertised*** 232 days|
         Source: [Realestate properties](https://www.realestate.com.au/agency/platinum-property-co-HZAMDK)
 ---
 
