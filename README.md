@@ -29,8 +29,8 @@
 
           | House         | Townhouse     | Apartment |
           |--------------|-----------|------------|
-          |1.***Sold*** - 12 sold\ 2.***Median price*** - $410K\ 3.***Median days advertised*** 133 days | 1.***Sold*** - 3 sold\ 2.***Median price*** - $680K\ 3.***Median days advertised*** 166 days | 1.***Sold*** - 2 sold \ 2.***Median price*** - $458K \ 3.***Median days advertised*** 232 days|
-          source: [Source for above data](https://www.realestate.com.au/agency/platinum-property-co-HZAMDK)
+          |-***Sold*** - 12 sold <br> -***Median price*** - $410K <br> 3.***Median days advertised*** 133 days | 1.***Sold*** - 3 sold <br> 2.***Median price*** - $680K<br> 3.***Median days advertised*** 166 days | 1.***Sold*** - 2 sold  2.***Median price*** - $458K <br> 3.***Median days advertised*** 232 days|
+          Source: [Realestate properties](https://www.realestate.com.au/agency/platinum-property-co-HZAMDK)
 ---
 
 ## Business Activities
