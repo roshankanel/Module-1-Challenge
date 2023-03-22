@@ -77,9 +77,9 @@
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
     -Below table gives the overall performance of this company for last 12 months.
-        | House         | Townhouse     | Apartment |
-        |--------------|-----------|---------------------|
-        |***Sold*** - 12 sold <br> ***Median price*** - $410K <br> ***Median days advertised*** 133 days | ***Sold*** - 3 sold <br> ***Median price*** - $680K <br> ***Median days advertised*** 166 days |   ***Sold*** - 2 sold <br> ***Median price*** - $458K <br> ***Median days advertised*** 232 days|
+    | House         | Townhouse     | Apartment |
+    |--------------|-----------|---------------------|
+    |***Sold*** - 12 sold <br> ***Median price*** - $410K <br> ***Median days advertised*** 133 days | ***Sold*** - 3 sold <br> ***Median price*** - $680K <br> ***Median days advertised*** 166 days |   ***Sold*** - 2 sold <br> ***Median price*** - $458K <br> ***Median days advertised*** 232 days|
     Source: [Realestate properties](https://www.realestate.com.au/agency/platinum-property-co-HZAMDK)
     - Based on above information company is performing pretty well with lots of room to grow.
 * How is your company performing relative to competitors in the same domain?
