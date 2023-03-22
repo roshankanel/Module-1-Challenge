@@ -34,8 +34,19 @@
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
+    - It will track all the payment that has been made and needs to be made in the future
+    - It will let customer choose - mode of payment 
+        - BSB
+        - Crypto
+        - Other
+    - It will track and respond to all the small details regarding the properties.
+    - It will let the real estate agent, landlord and tenants know the outcome.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+    - Currently we are aiming for the people who wants to rent the property.
+    - Below is the average rental growth in sydney
+        ![Rental growth](/images/logo.jpg)
+    Source: [Propertyology](https://www.propertyology.com.au/sydney-rents-historical-performance-and-outlook-2/)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
 
