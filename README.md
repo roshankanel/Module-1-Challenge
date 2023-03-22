@@ -24,11 +24,7 @@
 
 * How is the company funded? How much funding have they received?
     - When rented they get certain commision from the tenants. 
-    - I couldnot find how much fund they have recieved. But below table gives the overall performance of this company for last 12 months.
-        | House         | Townhouse     | Apartment |
-        |--------------|-----------|---------------------|
-        |***Sold*** - 12 sold <br> ***Median price*** - $410K <br> ***Median days advertised*** 133 days | ***Sold*** - 3 sold <br> ***Median price*** - $680K <br> ***Median days advertised*** 166 days |   ***Sold*** - 2 sold <br> ***Median price*** - $458K <br> ***Median days advertised*** 232 days|
-    Source: [Realestate properties](https://www.realestate.com.au/agency/platinum-property-co-HZAMDK)
+    - I couldnot find how much fund they have recieved. But 
 ---
 
 ## Business Activities
@@ -49,26 +45,45 @@
     <br>Source: [Propertyology](https://www.propertyology.com.au/sydney-rents-historical-performance-and-outlook-2/)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
+    - With recent data theft happening, our primary focus is to provide the data security to our clients. Our project will focus on blockchain technology for data security and will also provide a crypto as a mode of currency exchange also utilising AI techniques to forcast anything reported by the tenants.     
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+    - Based on my research they are using  currently using traditional database system mainly hosted in cloud. Most of the renowed company like domain and realestate are using .net platform( this is based on the job posted on seek)
 
 
 ## Landscape
 
 * What domain of the financial industry is the company in?
+    - Real estate properties
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
+    - There has been so many changes in this area. Mainly
+        - way to communicate with the existing clients
+        - paper based system being replaced by electroic system
+        - providing information to the future client
 
 * What are the other major companies in this domain?
+    - real estate
+    - domain
+    - ray white
+    - liang and simmons
 
 
 ## Results
 
 * What has been the business impact of this company so far?
+    - With the use of technology client in different country can invest in this sector resulting lots of oppertunity to this sector.
+    - People with busy life sechedule can get what they see without need of being present in the property. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
+    -Below table gives the overall performance of this company for last 12 months.
+        | House         | Townhouse     | Apartment |
+        |--------------|-----------|---------------------|
+        |***Sold*** - 12 sold <br> ***Median price*** - $410K <br> ***Median days advertised*** 133 days | ***Sold*** - 3 sold <br> ***Median price*** - $680K <br> ***Median days advertised*** 166 days |   ***Sold*** - 2 sold <br> ***Median price*** - $458K <br> ***Median days advertised*** 232 days|
+    Source: [Realestate properties](https://www.realestate.com.au/agency/platinum-property-co-HZAMDK)
+    - Based on above information company is performing pretty well with lots of room to grow.
 * How is your company performing relative to competitors in the same domain?
+    - This is yet to know. But with the proper techology in place i am hopeful that my company will be highly competetive and will bring major competition to the existing companies.
 
 
 ## Recommendations
